@@ -1,0 +1,16 @@
+Title: Software Installation Guide
+
+Category: Software Management
+
+Employees requesting software should check the approved software
+catalogue.
+
+Verify that the requested application is available.
+
+Submit a software service request through the IT helpdesk.
+
+Software installation requests may require organizational approval.
+
+After approval, the IT provisioning workflow can process the request.
+
+If the application is unavailable in the catalogue, contact IT Support.

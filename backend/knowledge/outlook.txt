@@ -1,0 +1,40 @@
+Outlook and Email Troubleshooting Guide
+
+Common Outlook Problems
+
+Employees may experience Outlook startup failures, email synchronization problems, missing emails, or difficulties sending and receiving messages.
+
+Outlook Will Not Open
+
+1. Close Outlook completely.
+2. Reopen Outlook.
+3. Restart the computer if Outlook remains unresponsive.
+4. Check whether other Microsoft 365 applications are working.
+5. Contact IT Support if the application still fails to open.
+
+Unable to Send or Receive Emails
+
+1. Verify that the internet connection is working.
+2. Check whether Outlook is in Offline mode.
+3. Verify that the mailbox has sufficient storage.
+4. Check the Outbox for messages that have not been sent.
+5. Restart Outlook and check synchronization again.
+
+Missing Emails
+
+1. Search the mailbox using the sender's name or email subject.
+2. Check the Junk Email and Deleted Items folders.
+3. Review inbox rules and filters if permitted by organizational policy.
+4. Contact IT Support if important emails remain missing.
+
+Outlook Keeps Asking for a Password
+
+Verify that you are using the correct organizational account.
+
+Complete authentication using the organization's approved sign-in process.
+
+Never share your password or verification codes with IT Support.
+
+Escalation
+
+If the issue persists, contact IT Support and provide the error message, Outlook version, and a description of the problem.

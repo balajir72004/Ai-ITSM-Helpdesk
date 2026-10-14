@@ -1,0 +1,16 @@
+Title: Laptop Performance Guide
+
+Category: Hardware Support
+
+If a laptop is running slowly, close unnecessary applications.
+
+Check available disk space.
+
+Restart the laptop if it is safe to do so and no important work is
+being interrupted.
+
+Check whether applications are consuming excessive system resources.
+
+Install updates only through approved organizational procedures.
+
+If the laptop continues to perform poorly, contact IT Support.

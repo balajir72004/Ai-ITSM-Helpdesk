@@ -1,0 +1,29 @@
+VPN Troubleshooting Guide
+
+Common VPN Problems
+
+Employees may experience VPN connection failures, authentication errors, or frequent disconnections.
+
+Steps to Troubleshoot VPN Connection Issues
+
+1. Verify that your internet connection is working.
+2. Confirm that you are using the correct VPN server address.
+3. Verify that your VPN username and authentication details are correct.
+4. Restart the VPN application.
+5. Disconnect and reconnect to the VPN.
+6. Restart your computer if the problem continues.
+7. Check whether your organization has announced VPN maintenance.
+
+VPN Authentication Errors
+
+Confirm that your account is active and your authentication method is working.
+
+If multi-factor authentication is required, complete the verification process using your organization's approved method.
+
+Do not share authentication codes or passwords.
+
+VPN Connection Still Fails
+
+Record the error message and the approximate time of the failure.
+
+Contact IT Support if the issue persists. Provide the error message and the troubleshooting steps already attempted.
